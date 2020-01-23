@@ -3723,16 +3723,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Merged_A7_export_metallicRoughness.png"
+      "uri": "Merged_A7_export_metallicRoughness.png"
     },
     {
-      "uri": "textures/Merged_A7_export_emissive.png"
+      "uri": "Merged_A7_export_emissive.png"
     },
     {
-      "uri": "textures/Merged_A7_export_normal.png"
+      "uri": "Merged_A7_export_normal.png"
     },
     {
-      "uri": "textures/Merged_A7_export_baseColor.png"
+      "uri": "Merged_A7_export_baseColor.png"
     }
   ],
   "materials": [
